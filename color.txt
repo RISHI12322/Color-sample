@@ -4,4 +4,3 @@ Green
 Pink
 Yellow
 Purple
-White
